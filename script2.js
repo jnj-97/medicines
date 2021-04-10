@@ -40,5 +40,5 @@ let medname=document.getElementsByClassName('medname');
 let checkout=document.querySelector('.checkout');
 console.log(checkout.textContent)
 checkout.addEventListener('click',function(){
-    mytext.innerHTML='Thank you for shopping with us, your cart has added successfully';
+    mytext.innerHTML='Thank you for shopping with us';
 })
