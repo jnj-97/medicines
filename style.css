@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    border:2px solid green;
+}
+.mycart{
+   position:relative;
+   margin-right:400;
+   margin-top:20px;
+}
+.pharmacy{
+    text-align: center;
+    color:rgb(221, 122, 8);
+}
+#clear{
+    padding:10px;
+    background-color: aqua;
+    float:right;
+}
+.medicine{
+    border:0px solid red;
+    float:left;
+    margin:25px;
+    width:15%;
+    height:40%;
+    text-align: center;
+    box-shadow: 10px 10px 8px 5px #888888;
+}
+.atc{
+    background-color: aqua;
+    width:100px; 
+    padding:7px;
+    margin-top:0px;
+}
+.price{
+    display: none;
+}
