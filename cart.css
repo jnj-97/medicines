@@ -22,7 +22,7 @@ body{
     height:50%;
 }
 .newtext{
-    color:rgb(255, 0, 0);
+    color:rgb(238, 232, 232);
 }
 .row{
     text-align: center;
@@ -36,13 +36,13 @@ body{
     text-align: center;
     color:rgb(19, 31, 204);
 }
-.checkout{
+#checkout{
     background-color: yellowgreen;
     padding:10px 25px 10px 25px;
     border-radius: 20%;
     font-size: 40px;
     color:white;
 }
-.checkout:hover{
+#checkout:hover{
     background:orange;
 }

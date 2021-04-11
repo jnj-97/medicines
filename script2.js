@@ -37,7 +37,7 @@ let medname=document.getElementsByClassName('medname');
 
 
 // mytext.innerHTML='hello';
-let checkout=document.querySelector('.checkout');
+let checkout=document.getElementById('checkout');
 console.log(checkout.textContent)
 checkout.addEventListener('click',function(){
     mytext.innerHTML='Thank you for shopping with us';

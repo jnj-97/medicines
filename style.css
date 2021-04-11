@@ -4,7 +4,7 @@
 .container{
     border:2px solid green;
 }
-.mycart{
+#mycart{
    position:relative;
    margin-right:400;
    margin-top:20px;
